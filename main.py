@@ -8,5 +8,5 @@ from assets import DATA
 
 
 if __name__ == "__main__":
-    print(DATA)
+    print(one)
     print(one())
