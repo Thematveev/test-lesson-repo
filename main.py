@@ -1,4 +1,5 @@
 from funcs import one
+from assets import DATA
 
 # git add
 # git commit
@@ -7,5 +8,5 @@ from funcs import one
 
 
 if __name__ == "__main__":
-
+    print(DATA)
     print(one())
