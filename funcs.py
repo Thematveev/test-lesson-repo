@@ -4,3 +4,5 @@ def one():
 
 def two():
     return 2
+
+print("Test")
